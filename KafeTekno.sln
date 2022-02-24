@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeTekno.UI", "KafeTekno.UI\KafeTekno.UI.csproj", "{0EEF03BE-7BEA-4CD8-8B97-A53CD8E2BC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeTekno.DATA", "KafeTekno.DATA\KafeTekno.DATA.csproj", "{E75A6EDD-48CC-4437-AED8-295E4045B016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEF03BE-7BEA-4CD8-8B97-A53CD8E2BC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEF03BE-7BEA-4CD8-8B97-A53CD8E2BC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEF03BE-7BEA-4CD8-8B97-A53CD8E2BC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEF03BE-7BEA-4CD8-8B97-A53CD8E2BC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75A6EDD-48CC-4437-AED8-295E4045B016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75A6EDD-48CC-4437-AED8-295E4045B016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75A6EDD-48CC-4437-AED8-295E4045B016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75A6EDD-48CC-4437-AED8-295E4045B016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A4DCD2-AA41-4229-AF0E-75BFF2F48DDF}
+	EndGlobalSection
+EndGlobal
